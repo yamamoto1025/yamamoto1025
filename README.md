@@ -1,8 +1,10 @@
-### Hi there 👋
+### Welcome to visit my github profile 👋
 
-**yamamoto1025/yamamoto1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **yamamoto1025/yamamoto1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
+
+About me:
 
 - 🔭 I’m currently working on blockchain projects using solidity, smart contract, web3.js
 - 🌱 I’m currently learning how to adopt blockchain technology in business and healthcare.

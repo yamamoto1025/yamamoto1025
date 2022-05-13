@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **yamamoto1025/yamamoto1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
         skype: ryuunosuke121212@gmail.com
         Telegram ID:
 
--->
 ### Languages and Tools:
 
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/msilucifer/)](https://github.com/yamamoto1025/)

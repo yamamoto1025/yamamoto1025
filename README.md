@@ -12,7 +12,8 @@ About me:
 - 📫 How to reach me: 
         Email: ryuunosuke121212@gmail.com
         skype: ryuunosuke121212@gmail.com
-        Telegram ID:
+        Telegram ID: Coinguru1025
+        Discord ID: Coinguru1025
 
 ### Languages and Tools:
 
